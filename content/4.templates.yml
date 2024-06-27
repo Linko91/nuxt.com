@@ -198,7 +198,7 @@ templates:
     badge: 'Premium'
   - name: 'Pinx Admin Template'
     slug: 'pinx'
-    description: 'Admin template crafted with Vue 3 + TypeScript, developer friendly and designed with Naive UI and Tailwind CSS.'
+    description: 'Admin template built with Nuxt, developer friendly and designed with Naive UI and Tailwind CSS.'
     demo: 'https://pinx.vercel.app/'
     purchase: 'https://1.envato.market/pinx'
     badge: 'Premium'
